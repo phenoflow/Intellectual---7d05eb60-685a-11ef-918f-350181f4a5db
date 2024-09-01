@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/intellectual-disability---icduncat.py
+inputModule3:
+  class: File
+  path: python/moderate-intellectual---icduncat.py
+inputModule4:
+  class: File
+  path: python/severe-intellectual---icduncat.py
+inputModule5:
+  class: File
+  path: python/profound-intellectual---icduncat.py
+inputModule6:
+  class: File
+  path: python/intellectual-unspecified---icduncat.py
+inputModule7:
+  class: File
+  path: python/intellectual---icduncat.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
